@@ -7,4 +7,3 @@ yarn.lock
 .umi/*
 .temp/*
 todo/
-dist/
