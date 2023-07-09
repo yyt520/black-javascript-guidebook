@@ -1,0 +1,10 @@
+*/.DS_Store
+.DS_Store
+.idea/
+Icon
+node_modules/
+yarn.lock
+.umi/*
+.temp/*
+todo/
+dist/
